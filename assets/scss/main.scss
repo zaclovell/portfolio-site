@@ -221,7 +221,7 @@ main {
         min-height: 100vh;
         display: flex;
         align-items: center; 
-        background-image: url("https://github.com/zaclovell/portfolio-site/blob/5bf27f1ee6e63ac714087faa54ca2993708388dc/assets/images/pexels-faik-akmd-1025469.jpg");
+        background-image: url("../images/pexels-faik-akmd-1025469.jpg");
         background-position: top left;
         background-size: cover;
         
@@ -327,27 +327,15 @@ main {
                 border-radius: 16px;
                 overflow: hidden;
                 color: antiquewhite;
-                background-image: url("./assets/images/pexels-pixabay-275033 (1).jpg");
+                background-image: url("../images/pexels-pixabay-275033 (1).jpg");
                 background-size: cover;
 
                 &:nth-child(2) {
-                    background-image: url("./assets/images/pexels-guilherme-rossi-1755683.jpg");
+                    background-image: url("../images/pexels-guilherme-rossi-1755683.jpg");
                 }
 
                 &:nth-child(3) {
-                    background-image: url("./assets/images/pexels-dmitry-demidov-3784221.jpg");
-                }
-                
-                &:nth-child(4) {
-                    background-image: url("./assets/images/pexels-chevanon-photography-312418.jpg");
-                }
-
-                &:nth-child(5) {
-                    background-image: url("./assets/images/pexels-sebastian-voortman-189349.jpg");
-                }
-
-                &:nth-child(6) {
-                    background-image: url("./assets/images/pexels-cleyder-duque-3637836.jpg");
+                    background-image: url("../images/pexels-dmitry-demidov-3784221.jpg");
                 }
 
                 .content {
